@@ -5,7 +5,7 @@ My name is Santiago and I'm a passionate about the ***Computer Science and Softw
 <3 I love **C** and **PHP** 🐘.
 
 ### MindDevs:
-At Mind Devs we develop the future by teaching programming to the young people.
+At MindDevs we develop the future by teaching programming to the young people.
 
 <!-- ###### My Page: https://danielperez.coderdojo.com.co/ -->
 ###### MindDevs: https://minddevs.com/
